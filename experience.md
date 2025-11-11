@@ -17,7 +17,7 @@ Spoke with customers regularly. Dozens of customer meetings.
 
 ## Customer relationships
 
-Met regularly with customers to learn about their business. Discussed product features. Goal was to provide value and build good will and relationship so that we could understand what they 
+Met regularly with customers to learn about their business. Discussed product features. Goal was to provide value and build good will and relationship so that we could understand what they needed.
 	
 ## Dynamics
 
