@@ -1,24 +1,35 @@
+# Projects
+- Consent Navigator
+- Client Hints
+- Analytics for Ad Cloud (AA4AdC)
+- Attribution for Ad Cloud
+- Aeon for AA (modernized infra w fallback)
+- Geo/Bot/Device lookup
+- Pageview inflation sagas
+- Omnivore/AEM streamlined setups
+- Content Analytics. Streamlined setup.
+
 # Experience with feedback and surveys. 
 
-In my role as product manager my decisions were primarily driven by user/customer feedback. This feedback often came in the form of surveys and customer interviews. Examples of this work:
+- In my role as product manager my decisions were primarily driven by user/customer feedback. This feedback often came in the form of surveys and customer interviews. Examples of this work:
 
 ## Surveys
 
-For one project we ran surveys through a third party. We defined the segments and audience we wanted to reach as well as the questions we wanted to answer. Some things we planned to learn: discover customer willingness to pay, relative importance of certain features, how these varied across different segments of customer (geo, vertical, size). 
-We did surveys directly with customers. We chose a subset of existing customers and contacts and asked them similar questions
-Customer Interviews: group 
-We had several CAB (Customer Advisory Board) sessions. Had 1-1.5 hr sessions with multiple customers (4-7) on the call. These were recruited specifically based on their role. Some sessions covered a single topic others were covering multiple topics. In some cases I prepared material that was delivered by others who moderated the session. In others I lead the discussion.
+- For Consent Navigator, a project that involved collecting anonymous or minimal data when consent had not been provided, we ran surveys through a third party. We defined the segments and audience we wanted to reach as well as the questions we wanted to answer. Some things we planned to learn: discover customer willingness to pay, relative importance of certain features, how these varied across different segments of customer (geo, vertical, size). We did surveys directly with customers. We chose a subset of existing customers and contacts and asked them similar questions. For group interviews, we had several CAB (Customer Advisory Board) sessions. Had 1-1.5 hr sessions with multiple customers (4-7) on the call. These were recruited specifically based on their role. Some sessions covered a single topic others were covering multiple topics. In some cases I prepared material that was delivered by others who moderated the session. In others I lead the discussion.
 For these CAB sessions we had a limited time with these important stakeholders. We had to be careful to structure the presentation to clearly gather the information. This included balancing between getting answers to specific questions as well as allowing for open ended feedback. 
 Usually these were online/virtual but sometimes in person, say at a conference.
 
 ## Customer Interviews: 1 to 1
 
-Spoke with customers regularly. Dozens of customer meetings.
+- As a PM, for any customer facing project I spoke wiht customers regularly. I've lead dozens of customer meetings. I alos try to develop personal relationships so I can reach out ot customers over Slack of email.
 
 ## Customer relationships
 
-Met regularly with customers to learn about their business. Discussed product features. Goal was to provide value and build good will and relationship so that we could understand what they needed.
-	
+- Met regularly with customers to learn about their business. Discussed product features. Goal was to provide value and build good will and relationship so that we could understand what they needed.
+
+## Discovery
+- 
+
 ## Dynamics
 
 Had to structure to allow audience to clearly understand the topic and to elicit their opinion. Sometimes about sensitive topics like willingness to pay (e.g. value). 
