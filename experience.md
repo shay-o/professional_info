@@ -32,6 +32,14 @@ Adobe - Ad Cloud
 
 * **Strategic Planning:** Defined audience segments and research questions to discover customer willingness to pay and feature importance.
 * **Decision Making:** drove product roadmap decisions primarily through user feedback gathered via rigorous surveys and interviews.
+* **Zero to One Products:**
+   - Cardlytics (Dir Analytics)
+   - Consilient (QA)
+   - BarraCredit (QA)
+   - Content Analytics
+* **AI**
+   - Content Analytics
+   - AI driven onboarding
 * **Key Projects:**
     * **Consent Navigator:** Led a project involving anonymous/minimal data collection. Managed third-party surveys to determine customer willingness to pay and feature importance across various segments (geo, vertical, size).
     * **Ad Cloud Integration:** Managed *Analytics for Ad Cloud (AA4AdC)* and *Attribution for Ad Cloud*.
