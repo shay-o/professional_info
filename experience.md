@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Projects
 - Consent Navigator
 - Client Hints
