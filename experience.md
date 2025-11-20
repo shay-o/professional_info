@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Shay O'Reilly – Professional Experience
+Last update Nov 20
 
 **Profile Summary**
 Seasoned product and analytics expert with over 15 years of experience using data to drive organizational decisions. A Principal Product Manager with a strong background in data science and leadership, specializing in building tools that translate complex data into actionable business strategies. Passionate about social impact, clean energy, and equity, with a proven track record of bridging technical execution with executive-level strategy.
