@@ -16,12 +16,13 @@ Adobe - Analytics
 - Geo/Bot/Device lookup
 - Pageview inflation sagas
 - Omnivore/AEM streamlined setups
-
-Adobe - Ad Cloud
-- Analytics for Ad Cloud (AA4AdC)
-- Attribution for Ad Cloud
 - Content Analytics. Streamlined setup.
 
+Adobe - Ad Cloud
+- Integration with Adobe Analytics (Analytics for Ad Cloud - AA4AdC)
+- Attribution for Ad Cloud
+- Integration with third-party Mobile Measurement Provides
+- Rebuild of reporting 
 
 ---
 
