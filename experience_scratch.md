@@ -2,20 +2,14 @@
 
 ### References
 [LinkedIn Profile](https://www.linkedin.com/in/shayoreilly/)
+
 [GitHub Profile](https://github.com/shay-o)
+
 Summit 2025 Lab on Migration from Analytics to CJA: 
    [Lab Book](https://summitlab2025.com/workbook.pdf) 
    [Conference listing](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-analytics-session-amp-lab-recording-list-adobe-summit-2025/td-p/739120)
+
 [Experience League Live Presentation on Content Analytics](https://engage.adobe.com/ExpLeagueLive-250522.html?sdid=NGWGR6CF&mv=other#:~:text=Adobe%20Experience%20League%20LIVE%3A%20Content,Optimize%20performance%20with%20AI%20insights&text=Shay%20O'Reilly%3A%20Principal%20Product%20Manager%2C,Digital%20Experience)
-
-
-
-##Areas for improvement
-- Storytelling. A vision to help people understand and get on board.
-- Tracking towards something significant, as opposed to just a bunch of stuff
-- Constant challenge to find time to be with customers (non-reactively), use the product vs deal with daily barrage of requests.
-- Related. Time spent dealing with concerns and questions. This needs to be scaleable and not a large part of time. understanding the problems and the extent of their impact is important but cannot be consumed with customer issues.
-
 
 ## Projects and acheivements
 ### Adobe Analtytics (Sept 2020 - Sept 2025)
@@ -73,4 +67,3 @@ Mentored Stelian on enrichment projects
 
 #### Market Research
 #### Collaboration strategic thinking: Aligning with Travis and AJO team on Quick Start. Deciding how similar projects should proceed (join, in parallel? How to stay in touch? How think about long term (likely alignment) vs short-term independent pursuit of different work flows. Same for Condor and AEM+Omnivore
-
