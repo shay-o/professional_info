@@ -8,6 +8,17 @@ Last update Nov 20
 **Profile Summary**
 Seasoned product and analytics expert with over 15 years of experience using data to drive organizational decisions. A Principal Product Manager with a strong background in data science and leadership, specializing in building tools that translate complex data into actionable business strategies. Passionate about social impact, clean energy, and equity, with a proven track record of bridging technical execution with executive-level strategy.
 
+### References
+[LinkedIn Profile](https://www.linkedin.com/in/shayoreilly/)
+
+[GitHub Profile](https://github.com/shay-o)
+
+Summit 2025 Lab on Migration from Analytics to CJA: 
+   [Lab Book](https://summitlab2025.com/workbook.pdf) 
+   [Conference listing](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-analytics-session-amp-lab-recording-list-adobe-summit-2025/td-p/739120)
+
+[Experience League Live Presentation on Content Analytics](https://engage.adobe.com/ExpLeagueLive-250522.html?sdid=NGWGR6CF&mv=other#:~:text=Adobe%20Experience%20League%20LIVE%3A%20Content,Optimize%20performance%20with%20AI%20insights&text=Shay%20O'Reilly%3A%20Principal%20Product%20Manager%2C,Digital%20Experience)
+
 # Projects
 Adobe - Analytics
 - Consent Navigator
