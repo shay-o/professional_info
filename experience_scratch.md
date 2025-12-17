@@ -14,9 +14,9 @@ Summit 2025 Lab on Migration from Analytics to CJA:
 ## Projects and acheivements
 ### Adobe Analtytics (Sept 2020 - Sept 2025)
   - Client hints: Description tbd
-  - Geo/Bot/Dev: Descritption tbd
-  - Edge support
-    - Pageview inflation
+  - Edge Enrichment initiativie: Added three services to Adobe Experience Edge: Geo lookup, Bot detection and device lookup services would add information to inboun hits while maintaining SLAs for sending data to consuming systems like Adobe Experience Platform and CJA or Adobe Analytics. I determined the feature set and evaluated third party vendors to determine best functionality. Service was consumed by several businesses and used a shared infrastructure which required alignment across technical and business functions. Service was low latency (single digit MS) and high volume (tens of billions of lookups/day). 
+  - Various projects to support data collection in Analytics using Web SDK and Experience Edge
+    - Pageview inflation: Difficult regression introduced by new Edge infrastructure. Data was not being classified in the same way and impacting reporting as well as costs. Learned up on this complex topic through discussions with technical experts and stakeholders. Eventually a solution.
     - XDM Translator: Map legacy schema to new
     - General strategy around CJA migration. How to balance quick+dirty vs slow+clean. Had to balance across groups. Used shared infrastructure and needed to persuade that team to adopt our approach when it would impact other users of that infra.
     -  Many TTV projects. How to get customers onto CJA.
@@ -26,7 +26,7 @@ Summit 2025 Lab on Migration from Analytics to CJA:
     - Applied to several use cases. 1) New AEM customers wanting quick AA implementation 2) New CJA customers 3) Existing CJA customers 4) Content Analytics
     - ACA onboarding workglow
     - AEM onboarding flow
-  - Consent Navigator
+  - Consent Navigator: A project
   - IPv6: A project we decided NOT to move forward with. Embarassing and worth doing but not urgent. Some customers were affected strongly but had work arounds. Determined they weren't going to cancel b/c of this. 
   - Heatmap reporting (Activity Map): Proj
   - Learning: Working with highly technical engineering team and a manager who prefers to keep their roadmap opaque. Established a relationship and trust while also consistently pushing on process (what are we building? why? what if we don't? explain the resourcing. how are we tracking on these weekly through the quarter?
@@ -53,6 +53,8 @@ How do customers want their data (summary? distribution of frequencies? for what
 - Owned Custom Reports (ie just reporting). Updated UI. [details?]
 - Converstion Tracking was just complex.
 
+### Cardlytics - Director of Analytics
+
 ### Narrative summary
 When I arrived in the Analytics groupd I was starting from zero. I established strong expertise and command of a complex domain and used this to cover business-essential pathways like Edge collection for Analytics and CJA.	
 Also guided important projects like Omnivore and Condor (aka Content Analytics) from early stages to execution. This involves in bridging executive vision, high-level business goals and complex user and customer sets. I work across different organizations (AEM,AEP) while also understanding different customer perspectives.
@@ -64,6 +66,12 @@ Mentored Stelian on enrichment projects
 ## Themes
 
 ### Discovery
+
+### Collaboration and influence
+
+### Learning Moments and Wins
+- Pageview inflation I should have learned more about hte problem and found a permanent fix. The band aids were necessary but became obstacles to a final solution.
+- 
 
 #### Market Research
 #### Collaboration strategic thinking: Aligning with Travis and AJO team on Quick Start. Deciding how similar projects should proceed (join, in parallel? How to stay in touch? How think about long term (likely alignment) vs short-term independent pursuit of different work flows. Same for Condor and AEM+Omnivore
