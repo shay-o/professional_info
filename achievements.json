@@ -1,0 +1,85 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-01-07",
+  "person": {
+    "name": "Shay O'Reilly",
+    "linkedin": "https://www.linkedin.com/in/shayoreilly/",
+    "github": "https://github.com/shay-o"
+  },
+  "roles": [
+    {
+      "id": "adobe-analytics-pm",
+      "title": "Principal Product Manager",
+      "organization": "Adobe Analytics",
+      "start_date": "2020-09",
+      "end_date": "2025-09",
+      "summary": "Led product roadmap for data gathering tools within Adobe Analytics and Customer Journey Analytics, focusing on data collection, customer migration, and cross-product infrastructure."
+    },
+    {
+      "id": "adobe-adcloud-pm",
+      "title": "Product Manager",
+      "organization": "Adobe Ad Cloud",
+      "start_date": "2017-12",
+      "end_date": "2020-09",
+      "summary": "Managed analytics and reporting products for Adobe Ad Cloud, including attribution, integrations with Adobe Analytics, and third-party measurement platforms."
+    },
+    {
+      "id": "cardlytics-director",
+      "title": "Director of Analytics",
+      "organization": "Cardlytics",
+      "start_date": null,
+      "end_date": null,
+      "summary": "Led analytics team, managed data scientists, and established reporting practices to measure advertising product effectiveness."
+    }
+  ],
+  "achievements": [
+    {
+      "id": "edge-enrichment-2023",
+      "role_id": "adobe-analytics-pm",
+      "title": "Edge Enrichment at Massive Scale",
+      "timeframe": "2021 - 2023",
+      "context": "Adobe was modernizing its data collection infrastructure through Experience Edge. Multiple Adobe products (CJA, Adobe Analytics, AEP) needed enrichment services for incoming data, but each team was building their own solutions, leading to duplicated effort and inconsistent results.",
+      "problem": "We needed centralized, high-performance enrichment services (geo lookup, bot detection, device lookup) that could handle tens of billions of requests per day with single-digit millisecond latency while maintaining SLAs for downstream systems. The challenge was building shared infrastructure that would work across multiple Adobe products with different requirements.",
+      "actions": [
+        "Led the initiative to design and build three enrichment services on Adobe Experience Edge",
+        "Evaluated third-party vendors to determine the best functionality and cost trade-offs",
+        "Drove cross-functional alignment across multiple Adobe businesses (CJA, AA, AEP) and technical teams",
+        "Defined feature set and SLA requirements that balanced competing priorities",
+        "Navigated complex shared infrastructure discussions, persuading teams to adopt approaches that would impact their users"
+      ],
+      "impact": {
+        "quantitative": [
+          "Achieved single-digit millisecond latency",
+          "Handled tens of billions of lookups per day"
+        ],
+        "qualitative": [
+          "Multiple Adobe businesses successfully consuming the service",
+          "Eliminated duplicated vendor relationships",
+          "Reduced overall costs",
+          "Improved data consistency across products"
+        ]
+      },
+      "competencies": [
+        "Cross-functional leadership",
+        "Vendor evaluation",
+        "Infrastructure architecture",
+        "Stakeholder management",
+        "Technical product management",
+        "Negotiation and persuasion"
+      ],
+      "story": "This project taught me how to balance the needs of multiple stakeholders with different priorities. The key was focusing on shared infrastructure benefits while being transparent about trade-offs. I learned that sometimes slowing down to build consensus upfront leads to faster execution later.",
+      "tags": [
+        "infrastructure",
+        "cross-functional",
+        "technical",
+        "scale",
+        "vendor-management",
+        "Adobe-Analytics",
+        "CJA",
+        "AEP"
+      ],
+      "evidence_links": [],
+      "reflection": "This project taught me how to balance the needs of multiple stakeholders with different priorities. The key was focusing on shared infrastructure benefits while being transparent about trade-offs. I learned that sometimes slowing down to build consensus upfront leads to faster execution later."
+    }
+  ]
+}
