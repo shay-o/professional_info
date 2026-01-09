@@ -80,6 +80,71 @@
       ],
       "evidence_links": [],
       "reflection": "This project taught me how to balance the needs of multiple stakeholders with different priorities. The key was focusing on shared infrastructure benefits while being transparent about trade-offs. I learned that sometimes slowing down to build consensus upfront leads to faster execution later."
+    },
+    {
+      "id": "cookieless-privacy-2020-2025",
+      "role_id": "adobe-analytics-pm",
+      "title": "Privacy & Cookieless Tracking Thought Leadership",
+      "timeframe": "Sept 2020 - Sept 2025",
+      "context": "Privacy limitations and regulations were proliferating impacting the ability of our customers to collect usage data and thus their ability to use Adobe Analytics reporting to make business decisions. There were a variety of changes with plenty of nuances.",
+      "problem": "Customers were concerned about their ability to collect data and how this would impact their ability to use Analytics reporting on site/app usage to make business decisions. There was plenty of complexity which lead to confusion and concern. This in turn threatened to undermine the value of Adobe's solutions.",
+      "actions": [
+        "Established myself as the go-to expert on privacy and cookieless tracking, creating resources that empowered customers to assess and adapt to changes",
+        "Created comprehensive documentation and customer presentations that clarified complex privacy changes and their implications",
+        "Designed a pre-built reporting template that leveraged Adobe Analytics' own capabilities to measure the specific impact on each customer's data, showing identity reset patterns and visitor behavior changes",
+        "Built enablement materials for sales and customer-facing teams, including training sessions and knowledge transfer",
+        "The reporting template used Analytics' strengths to show how often visitors returned later than 7 days, which under Safari's ITP limitations would reset user identity and cause them to be treated as new users with no history"
+      ],
+      "impact": {
+        "quantitative": [
+          "2 live presentations at Adobe Summit to a total audience of about 1000",
+          "Collateral created for sales and other customer facing teams along with training and knowledge transfer",
+          "Contributed directly to public documentation"
+        ],
+        "qualitative": [
+          "Highlighted the power of existing product, provided clarity of the impact which end users could share with their stakeholders",
+          "Usually the impact was less than customers had feared",
+          "Showed how customers could use reporting to adjust for the impacts of these changes to the data"
+        ]
+      },
+      "competencies": [
+        "Technical communication",
+        "Thought leadership",
+        "Customer education",
+        "Complex problem simplification",
+        "Self-directed learning",
+        "Product expertise",
+        "Enablement at scale",
+        "Documentation",
+        "Public speaking",
+        "Sales enablement",
+        "Customer advisory",
+        "Creating actionable tools"
+      ],
+      "story": "This experience taught me that customers are hungry for guidance in navigating challenges in their space. Acting as a trusted advisor and partner is essential in B2B relationships. I learned that combining education with practical, actionable tools (like the reporting template) has more impact than documentation alone. The work demonstrated the value of becoming a subject matter expert and using that expertise to enable customers and internal teams at scale.",
+      "tags": [
+        "Privacy",
+        "Cookieless",
+        "Thought Leadership",
+        "customer-education",
+        "documentation",
+        "public-speaking",
+        "summit-presentation",
+        "technical-communication",
+        "enablement",
+        "Safari-ITP",
+        "customer-advisory",
+        "self-directed-learning",
+        "Adobe-Analytics",
+        "sales-enablement",
+        "product-expertise"
+      ],
+      "evidence_links": [
+        "https://experienceleague.adobe.com/en/docs/analytics/technotes/cookies/cookies#measure-itp-effect",
+        "https://experienceleague.adobe.com/en/docs/analytics/technotes/cookies/cookieless",
+        "https://medium.com/@ericmatisoff/assessing-itps-effect-on-adobe-analytics-data-469788e9733d"
+      ],
+      "reflection": "This experience taught me that customers are hungry for guidance in navigating challenges in their space. Acting as a trusted advisor and partner is essential in B2B relationships. I learned that combining education with practical, actionable tools (like the reporting template) has more impact than documentation alone. The work demonstrated the value of becoming a subject matter expert and using that expertise to enable customers and internal teams at scale."
     }
   ]
 }
