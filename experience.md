@@ -24,7 +24,12 @@ Summit 2025 Lab on Migration from Analytics to CJA:
 ## Key Achievements & Impact
 
 ### Thought Leadership & Customer Engagement
-* **Conference Presentations:** Delivered two Adobe Summit presentations on cookieless tracking and privacy, plus Experience League Live presentation on Content Analytics
+* **Privacy & Cookieless Tracking Expertise:** Established as go-to expert on privacy regulations and cookieless tracking
+   - Delivered two Adobe Summit presentations to ~1000 attendees on cookieless tracking and privacy
+   - Created comprehensive documentation and pre-built reporting templates to measure privacy impact
+   - Built enablement materials for sales teams, reducing customer concerns about data collection limitations
+   - Contributed to public Experience League documentation used across the Adobe customer base
+* **Conference Presentations:** Experience League Live presentation on Content Analytics
 * **Customer-Facing Leadership:** Represented CJA in strategic meetings with senior customer leaders at MLB, Telstra, Casio, and Bajaj
 * **Industry Recognition:** Selected to represent Adobe at LA Insider Tour (event cancelled)
 
@@ -80,6 +85,15 @@ Summit 2025 Lab on Migration from Analytics to CJA:
 * **Aeon for AA:** Oversaw modernized infrastructure implementation with fallback mechanisms
 
 ### Privacy & Compliance
+* **Privacy & Cookieless Tracking Thought Leadership:** Established expertise on privacy regulations and cookieless tracking to guide customers through industry changes (Sept 2020 - Sept 2025)
+   - Created comprehensive documentation and customer presentations clarifying complex privacy changes (Safari ITP, browser tracking limitations)
+   - Designed pre-built reporting template leveraging Adobe Analytics to measure specific impact on each customer's data
+   - Delivered two Adobe Summit presentations to ~1000 attendees on cookieless tracking and privacy
+   - Built enablement materials for sales and customer-facing teams with training and knowledge transfer
+   - Contributed directly to public Experience League documentation
+   - Impact: Provided clarity that reduced customer concerns, demonstrated product value in privacy-constrained environment
+   - Evidence: [ITP Impact Documentation](https://experienceleague.adobe.com/en/docs/analytics/technotes/cookies/cookies#measure-itp-effect), [Cookieless Guide](https://experienceleague.adobe.com/en/docs/analytics/technotes/cookies/cookieless), [Template Blog](https://medium.com/@ericmatisoff/assessing-itps-effect-on-adobe-analytics-data-469788e9733d)
+
 * **Consent Navigator:** Led project for anonymous and minimal data collection scenarios
    - Conducted third-party surveys to determine customer willingness to pay
    - Assessed feature importance across different customer segments (geography, vertical, company size)
@@ -152,7 +166,7 @@ Summit 2025 Lab on Migration from Analytics to CJA:
     * **Customer Migration:** Expertise in managing transitions from legacy tools to modern platforms, balancing customer needs with technical constraints
     * **Balancing Scale & Customization:** Skilled at addressing large customer needs while delivering broader value across diverse customer segments
     * **Cross-organizational Collaboration:** Successfully navigated complex projects requiring alignment across AEP, AEM, Intelligence Services, and Edge Collection teams
-* **Major Initiatives:** See detailed project descriptions above, including Edge Enrichment, Omnivore, CJA Migration Strategy, and Content Analytics
+* **Major Initiatives:** See detailed project descriptions above, including Edge Enrichment, Privacy & Cookieless Tracking Leadership, Omnivore, CJA Migration Strategy, and Content Analytics
 
 ### User Research & Stakeholder Feedback
 * **Surveys:** Designed and executed surveys (both direct and third-party) to understand customer needs across different verticals and geographies.
@@ -174,9 +188,14 @@ Summit 2025 Lab on Migration from Analytics to CJA:
 
 ### Communication & Collaboration
 * **Executive Communication:** Experienced in presenting technical modeling and data products to C-level executives (including VPs owning ~$4B in business) and at industry conferences.
+* **Thought Leadership & Customer Education:**
+   - Delivered two Adobe Summit presentations on cookieless tracking and privacy to ~1000 attendees
+   - Created comprehensive documentation and enablement materials simplifying complex technical topics
+   - Established expertise in emerging areas (privacy, cookieless tracking) and shared knowledge across sales, support, and customer-facing teams
+   - Contributed to public Experience League documentation serving the broader Adobe customer base
 * **Customer-Facing Leadership:**
    - Represented CJA in strategic customer meetings with MLB, Telstra, Casio, and Bajaj
-   - Delivered presentations at Adobe Summit and Experience League Live
+   - Delivered Experience League Live presentation on Content Analytics
    - Selected for expanded customer engagement role (LA Insider Tour)
 * **Cross-Functional Collaboration:** Skilled at collaborating with engineering teams and advocating for projects to leadership.
    - Successfully navigated shared infrastructure negotiations across multiple Adobe products
