@@ -21,6 +21,52 @@ Summit 2025 Lab on Migration from Analytics to CJA:
 
 ---
 
+## Table of Contents
+
+### Adobe Analytics (2020-2025)
+**Migration & Customer Onboarding**
+- [CJA Migration Strategy](#cja-migration-strategy)
+- [Omnivore: Streamlined CJA Setup](#omnivore)
+- [Content Analytics (Condor)](#content-analytics)
+
+**Data Collection & Infrastructure**
+- [Edge Enrichment Initiative](#edge-enrichment)
+- [XDM Translator](#xdm-translator)
+- [Pageview Inflation Resolution](#pageview-inflation)
+- [Web SDK & Experience Edge Support](#web-sdk-support)
+- [Client Hints Adaptation](#client-hints)
+- [Aeon for AA](#aeon)
+
+**Privacy & Compliance**
+- [Privacy & Cookieless Tracking Thought Leadership](#cookieless-privacy)
+- [Consent Navigator](#consent-navigator)
+
+**Reporting & Analytics**
+- [Heatmap Reporting (Activity Map)](#activity-map)
+
+**Strategic Decisions**
+- [IPv6 Strategic Evaluation](#ipv6-evaluation)
+
+### Adobe Ad Cloud (2017-2020)
+**Analytics & Attribution**
+- [Analytics for Ad Cloud (AA4AdC)](#aa4adc)
+- [Attribution Reporting](#attribution-reporting)
+
+**Reporting & Measurement**
+- [Reporting UI Rebuild](#reporting-ui-rebuild)
+- [Frequency Reporting Overhaul](#frequency-reporting)
+- [Custom Reports](#custom-reports)
+- [Portfolio Management](#portfolio-management)
+
+**Integrations & Partnerships**
+- [Mobile Measurement Partner Integration](#mmp-integration)
+- [Measurement Team Support](#measurement-team-support)
+
+**Technical Challenges**
+- [Conversion Tracking](#conversion-tracking)
+
+---
+
 ## Key Achievements & Impact
 
 ### Thought Leadership & Customer Engagement
@@ -52,39 +98,49 @@ Summit 2025 Lab on Migration from Analytics to CJA:
 ## Adobe Analytics (September 2020 - September 2025)
 
 ### Migration & Customer Onboarding
+<a name="cja-migration-strategy"></a>
 * **CJA Migration Strategy:** Led strategic planning for customer migration from Adobe Analytics to Customer Journey Analytics
    - Balanced trade-offs between quick-and-dirty vs. slow-and-clean migration approaches
    - Navigated complex shared infrastructure requirements, persuading platform teams to adopt approaches that would impact other users
    - Developed multiple time-to-value (TTV) projects to accelerate customer adoption
    - Explored AI-driven solutions for migration assistance, including understanding customer jobs-to-be-done and pain points
 
+<a name="omnivore"></a>
 * **Omnivore:** Led initiative to map business rules to XDM schema, dramatically reducing time-to-value for CJA adoption
    - Lowered technical expertise and time required for customers to get set up on CJA
    - Applied solution across four distinct use cases: new AEM customers, new CJA customers, existing CJA customers, and Content Analytics
    - Developed streamlined onboarding workflows for ACA and AEM customers
 
+<a name="content-analytics"></a>
 * **Content Analytics (Condor):** Guided project from early vision through execution
    - Created streamlined setup process for content analytics implementation
    - Bridged executive vision, high-level business goals, and complex customer requirements
    - Collaborated across AEM and Intelligence Services teams
 
 ### Data Collection & Infrastructure
+<a name="edge-enrichment"></a>
 * **Edge Enrichment Initiative:** See Key Achievements section above
 
+<a name="xdm-translator"></a>
 * **XDM Translator:** Developed mapping solution from legacy Adobe Analytics schema to new XDM standard, enabling smoother customer transitions
 
+<a name="pageview-inflation"></a>
 * **Pageview Inflation Resolution:** Tackled difficult regression introduced by new Edge infrastructure
    - Data classification inconsistencies were impacting both reporting accuracy and costs
    - Collaborated with technical experts and stakeholders to understand complex technical issues
    - Developed and implemented solution
 
+<a name="web-sdk-support"></a>
 * **Web SDK & Experience Edge Support:** Led various projects supporting data collection in Analytics using Web SDK and Adobe Experience Edge
 
+<a name="client-hints"></a>
 * **Client Hints:** Managed adaptation to new browser client hints technology for device detection
 
+<a name="aeon"></a>
 * **Aeon for AA:** Oversaw modernized infrastructure implementation with fallback mechanisms
 
 ### Privacy & Compliance
+<a name="cookieless-privacy"></a>
 * **Privacy & Cookieless Tracking Thought Leadership:** Established expertise on privacy regulations and cookieless tracking to guide customers through industry changes (Sept 2020 - Sept 2025)
    - Created comprehensive documentation and customer presentations clarifying complex privacy changes (Safari ITP, browser tracking limitations)
    - Designed pre-built reporting template leveraging Adobe Analytics to measure specific impact on each customer's data
@@ -94,14 +150,17 @@ Summit 2025 Lab on Migration from Analytics to CJA:
    - Impact: Provided clarity that reduced customer concerns, demonstrated product value in privacy-constrained environment
    - Evidence: [ITP Impact Documentation](https://experienceleague.adobe.com/en/docs/analytics/technotes/cookies/cookies#measure-itp-effect), [Cookieless Guide](https://experienceleague.adobe.com/en/docs/analytics/technotes/cookies/cookieless), [Template Blog](https://medium.com/@ericmatisoff/assessing-itps-effect-on-adobe-analytics-data-469788e9733d)
 
+<a name="consent-navigator"></a>
 * **Consent Navigator:** Led project for anonymous and minimal data collection scenarios
    - Conducted third-party surveys to determine customer willingness to pay
    - Assessed feature importance across different customer segments (geography, vertical, company size)
 
 ### Reporting & Analytics
+<a name="activity-map"></a>
 * **Heatmap Reporting (Activity Map):** Enhanced visual analytics capabilities for user interaction tracking
 
 ### Strategic Decisions
+<a name="ipv6-evaluation"></a>
 * **IPv6 Evaluation:** Assessed and made strategic decision not to prioritize IPv6 support
    - Determined that affected customers had viable workarounds
    - Validated that issue would not drive customer churn despite being technically important
@@ -115,34 +174,43 @@ Summit 2025 Lab on Migration from Analytics to CJA:
 ## Adobe Ad Cloud (December 2017 - September 2020)
 
 ### Analytics & Attribution
+<a name="aa4adc"></a>
 * **Analytics for Ad Cloud (AA4AdC):** Managed integration between Adobe Ad Cloud and Adobe Analytics
    - Became team expert in attribution reporting system
    - Supported extensive troubleshooting and customer-reactive work
 
+<a name="attribution-reporting"></a>
 * **Attribution Reporting:** Established deep expertise in Ad Cloud's attribution system, becoming the go-to resource for complex attribution questions
 
 ### Reporting & Measurement
+<a name="reporting-ui-rebuild"></a>
 * **Reporting UI Rebuild:** Led initiative to overhaul reporting interface (with Vic)
 
+<a name="frequency-reporting"></a>
 * **Frequency Reporting Overhaul:** Completely rebuilt broken and limited frequency reporting system
    - Determined customer data needs (summary vs. distribution of frequencies)
    - Defined use cases and appropriate data granularity
    - Developed clear communication strategy for estimated data
    - Delivered significantly more detailed and accurate reporting
 
+<a name="custom-reports"></a>
 * **Custom Reports:** Owned and updated custom reporting functionality, including UI enhancements
 
+<a name="portfolio-management"></a>
 * **Portfolio Management:** Managed wide-ranging portfolio including reports, home interface, PINT/BI internal reporting platform, and bespoke customer projects
 
 ### Integrations & Partnerships
+<a name="mmp-integration"></a>
 * **Mobile Measurement Partner (MMP) Support:** Developed integrations with third-party Mobile Measurement Partners
    - Enabled bidirectional data flow: ad impressions from Ad Cloud to MMPs, conversions from MMPs back to Adobe
    - Supported complex data synchronization requirements
 
+<a name="measurement-team-support"></a>
 * **Measurement Team Support:** Collaborated with measurement consulting team (Tom Riordan's group)
    - Supported consulting needs and developed survey measurement tools
 
 ### Technical Challenges
+<a name="conversion-tracking"></a>
 * **Conversion Tracking:** Managed complex conversion tracking implementation and troubleshooting 
 
 ---
