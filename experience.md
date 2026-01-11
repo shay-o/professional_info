@@ -19,6 +19,8 @@ Summit 2025 Lab on Migration from Analytics to CJA:
 
 [Experience League Live Presentation on Content Analytics](https://engage.adobe.com/ExpLeagueLive-250522.html?sdid=NGWGR6CF&mv=other#:~:text=Adobe%20Experience%20League%20LIVE%3A%20Content,Optimize%20performance%20with%20AI%20insights&text=Shay%20O'Reilly%3A%20Principal%20Product%20Manager%2C,Digital%20Experience)
 
+[US Patent #12124683 Content analytics as part of content creation](https://ppubs.uspto.gov/api/patents/html/12124683?source=USPAT&requestToken=eyJzdWIiOiI4YjM1N2MwYi04OWYwLTQzYjEtOGQzZi1hOTc4MWE1MGM5YWMiLCJ2ZXIiOiI5NWI0YTRmZC1mZWI4LTRkMjYtYmYxMy1lYWRkNzk5OWJhOGIiLCJleHAiOjB9)
+
 ---
 
 ## Table of Contents
