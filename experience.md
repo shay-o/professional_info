@@ -8,7 +8,7 @@ Last update January 2026
 **Profile Summary**
 Seasoned product and analytics expert with over 15 years of experience using data to drive organizational decisions. A Principal Product Manager with a strong background in data science and leadership, specializing in building tools that translate complex data into actionable business strategies. Passionate about social impact, clean energy, and equity, with a proven track record of bridging technical execution with executive-level strategy.
 
-### References
+### Documents, certificates and other artifacts
 [LinkedIn Profile](https://www.linkedin.com/in/shayoreilly/)
 
 [GitHub Profile](https://github.com/shay-o)
@@ -19,7 +19,7 @@ Summit 2025 Lab on Migration from Analytics to CJA:
 
 [Experience League Live Presentation on Content Analytics](https://engage.adobe.com/ExpLeagueLive-250522.html?sdid=NGWGR6CF&mv=other#:~:text=Adobe%20Experience%20League%20LIVE%3A%20Content,Optimize%20performance%20with%20AI%20insights&text=Shay%20O'Reilly%3A%20Principal%20Product%20Manager%2C,Digital%20Experience)
 
-[US Patent #12124683 Content analytics as part of content creation](https://ppubs.uspto.gov/api/patents/html/12124683?source=USPAT&requestToken=eyJzdWIiOiI4YjM1N2MwYi04OWYwLTQzYjEtOGQzZi1hOTc4MWE1MGM5YWMiLCJ2ZXIiOiI5NWI0YTRmZC1mZWI4LTRkMjYtYmYxMy1lYWRkNzk5OWJhOGIiLCJleHAiOjB9)
+[US Patent #12124683: Content analytics as part of content creation](https://ppubs.uspto.gov/api/patents/html/12124683?source=USPAT&requestToken=eyJzdWIiOiI4YjM1N2MwYi04OWYwLTQzYjEtOGQzZi1hOTc4MWE1MGM5YWMiLCJ2ZXIiOiI5NWI0YTRmZC1mZWI4LTRkMjYtYmYxMy1lYWRkNzk5OWJhOGIiLCJleHAiOjB9)
 
 ---
 
@@ -281,3 +281,6 @@ Summit 2025 Lab on Migration from Analytics to CJA:
 * **Research & Analysis:** Conducted stakeholder interviews and performed "ride-along" field observations (three full days) to understand the city services system.
 * **Reporting:** Synthesized findings and developed recommendations which were presented to city leadership.
 * **Stakeholder Engagement:** Interviewed
+
+
+[def]: https://ppubs.uspto.gov/api/patents/html/12124683?source=USPAT&requestToken=eyJzdWIiOiI4YjM1N2MwYi04OWYwLTQzYjEtOGQzZi1hOTc4MWE1MGM5YWMiLCJ2ZXIiOiI5NWI0YTRmZC1mZWI4LTRkMjYtYmYxMy1lYWRkNzk5OWJhOGIiLCJleHAiOjB9
