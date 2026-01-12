@@ -191,6 +191,8 @@ Summit 2025 Lab on Migration from Analytics to CJA:
 <a name="frequency-reporting"></a>
 * **Frequency Reporting Overhaul:** Completely rebuilt broken and limited frequency reporting system
    - Determined customer data needs (summary vs. distribution of frequencies)
+   - Worked with data engineers to fine tune model used to estimate frequencies
+   - Developed UX to clearly and accurately represent modelled data in reporting
    - Defined use cases and appropriate data granularity
    - Developed clear communication strategy for estimated data
    - Delivered significantly more detailed and accurate reporting
