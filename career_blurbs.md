@@ -1,6 +1,6 @@
 # Stuff I've done
 
-A loose collection of job description blurbs and my responses
+### A loose collection of job description blurbs and my responses
 
 Deﬁne and evolve the organizational data strategy and architecture, ensuring that data pipelines and models effectively serve the needs of the Product, Marketing, and Membership systems. 
 → Extensive experience building data products as an analytics leader and as a product manager building commercial analytics tools.
